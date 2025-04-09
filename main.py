@@ -1,5 +1,5 @@
 import random
-moznosti = ["rohlík", "párek", "koloběžka", "šunka", "perník"]
+moznosti = ["rohlík", "párek", "traktor", "parník", "perník"]
 for _ in range(10):
     osoba1_volba = random.choice(moznosti)
     osoba2_volba = random.choice(moznosti)
